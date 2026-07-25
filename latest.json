@@ -1,0 +1,7 @@
+{
+  "version": "1.7.4",
+  "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
+  "notes": "Carte d'urgence avec vos traitements en cours + accès depuis l'écran de verrouillage. Plus : verrouillage corrigé (caméra), fiche utilisateur avec photo, page dédiée appareils, photos plein écran + recadrage.",
+  "obligatoire": false,
+  "minVersion": "1.0.0"
+}
