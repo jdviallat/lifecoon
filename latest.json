@@ -1,7 +1,7 @@
 {
-  "version": "1.7.4",
+  "version": "1.8.0",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Carte d'urgence avec vos traitements en cours + accès depuis l'écran de verrouillage. Plus : verrouillage corrigé (caméra), fiche utilisateur avec photo, page dédiée appareils, photos plein écran + recadrage.",
+  "notes": "Conditions de prise des médicaments (durée limitée, à jeun, espacement) + détection de conflits d'horaire. Mesures personnalisées suivies dans le temps. Rapports : valeurs hors seuils en surbrillance, pouls et FC de repos inclus.",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }
