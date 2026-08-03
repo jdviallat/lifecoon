@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Conditions de prise des médicaments (durée limitée, à jeun, espacement) + détection de conflits d'horaire. Mesures personnalisées suivies dans le temps. Rapports : valeurs hors seuils en surbrillance, pouls et FC de repos inclus.",
+  "notes": "Conflit de prise entre deux médicaments : à l'enregistrement, un avertissement propose de choisir entre « Enregistrer quand même » et « Modifier l'heure/la date ».",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }
