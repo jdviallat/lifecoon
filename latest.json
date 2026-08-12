@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Conflit de prise entre deux médicaments : à l'enregistrement, un avertissement propose de choisir entre « Enregistrer quand même » et « Modifier l'heure/la date ».",
+  "notes": "Pilulier de la semaine imprimable, corrélations (superposer deux mesures + repères de traitement), alertes doublons/interactions (substance DCI), suivi des effets secondaires par médicament.",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }
