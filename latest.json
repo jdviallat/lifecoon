@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "2.0.0",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Pilulier de la semaine imprimable, corrélations (superposer deux mesures + repères de traitement), alertes doublons/interactions (substance DCI), suivi des effets secondaires par médicament.",
+  "notes": "Accessibilité (grand affichage, contraste, lecture vocale), bilan mensuel « Votre mois de santé », préparation de consultation (PDF), et import d'une analyse de labo par photo (OCR).",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }
