@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Alertes intelligentes : l'app surveille vos tendances et vous prévient (tension du matin en hausse, glycémie souvent au-dessus de la cible, variation de poids, baisse d'observance). Activable dans les Réglages.",
+  "notes": "Version APK (hors Play) : vérification automatique des nouvelles versions au lancement, avec un rappel « Nouvelle version disponible » (désactivable dans les Réglages).",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }

@@ -3,6 +3,9 @@
 Historique des nouveautés de l'application **Lifecoon — Suivi Santé** (par Bengacoon).
 Application 100 % locale et chiffrée · iOS (App Store), Android (Google Play + APK direct).
 
+## 2.1.1 — Août 2026
+- **Version APK (hors Play)** : vérification automatique des nouvelles versions au lancement (au plus une fois par jour) avec un rappel « Nouvelle version disponible », désactivable dans les Réglages.
+
 ## 2.1.0 — Août 2026
 - **Alertes intelligentes** : l'app surveille vos tendances et vous prévient — tension du matin en hausse, glycémie souvent au-dessus de la cible, variation de poids, baisse d'observance. Activable dans les Réglages, à titre indicatif.
 
