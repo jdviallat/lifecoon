@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
-  "notes": "Version APK (hors Play) : vérification automatique des nouvelles versions au lancement, avec un rappel « Nouvelle version disponible » (désactivable dans les Réglages).",
+  "notes": "Vos données ne se perdent plus : sauvegarde chiffrée automatique dans un dossier que vous choisissez (survit à une désinstallation), sauvegarde proposée avant chaque mise à jour, et restauration au transfert de téléphone (sans cloud).",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }

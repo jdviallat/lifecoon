@@ -3,6 +3,9 @@
 Historique des nouveautés de l'application **Lifecoon — Suivi Santé** (par Bengacoon).
 Application 100 % locale et chiffrée · iOS (App Store), Android (Google Play + APK direct).
 
+## 2.2.0 — Août 2026
+- **Vos données ne se perdent plus** : sauvegarde chiffrée automatique dans un dossier que vous choisissez (Documents, Drive…) qui survit à une désinstallation ; sauvegarde proposée avant chaque mise à jour ; restauration automatique au transfert de téléphone, sans copie dans le cloud.
+
 ## 2.1.1 — Août 2026
 - **Version APK (hors Play)** : vérification automatique des nouvelles versions au lancement (au plus une fois par jour) avec un rappel « Nouvelle version disponible », désactivable dans les Réglages.
 
