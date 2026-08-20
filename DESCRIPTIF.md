@@ -128,9 +128,9 @@ Les deux plateformes suivent **le même numéro de version** et offrent la **mê
 
 ## 6. Mises à jour
 
-L'application vérifie les nouvelles versions via le dépôt public **[lifecoon-updates](https://github.com/jdviallat/lifecoon-updates)** (`latest.json` + APK dans les *Releases*). Aucune donnée personnelle n'est transmise lors de cette vérification.
+L'application vérifie les nouvelles versions via le dépôt public **[lifecoon](https://github.com/jdviallat/lifecoon)** (`latest.json` + APK dans les *Releases*). Aucune donnée personnelle n'est transmise lors de cette vérification.
 
-- **Android** : dernier APK → https://github.com/jdviallat/lifecoon-updates/releases/latest
+- **Android** : dernier APK → https://github.com/jdviallat/lifecoon/releases/latest
 - **iOS** : via l'App Store.
 
 ---
