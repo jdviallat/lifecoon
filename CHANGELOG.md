@@ -3,6 +3,13 @@
 Historique des nouveautés de l'application **Lifecoon — Suivi Santé** (par Bengacoon).
 Application 100 % locale et chiffrée · iOS (App Store), Android (Google Play + APK direct).
 
+## 2.4.0 — Août 2026
+- **Navigation simplifiée** : les fonctions ne sont plus enfouies dans les Réglages.
+- Onglet **« Médical »** (ex-RDV) : rendez-vous, médecins, pharmacies et rappels d'examens.
+- Onglet **« Dossier »** (ex-Export) : rapport, fiche de liaison, carte d'urgence, vaccination, documents.
+- Onglet **« Suivi »** regroupe toutes vos mesures ; les Réglages ne gardent que la configuration.
+- **Protection renforcée** contre la perte de données lors d'une mise à jour.
+
 ## 2.3.0 — Août 2026
 - **Import d'une ordonnance** (PDF ou photo) : médicaments et posologie reconnus et créés automatiquement (à confirmer).
 - **Import d'un rapport d'examen PDF** (OCR) pour pré-remplir vos mesures.
