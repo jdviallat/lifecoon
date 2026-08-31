@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/jdviallat/lifecoon/releases/latest",
-  "notes": "Vos données ne se perdent plus : sauvegarde chiffrée automatique dans un dossier que vous choisissez (survit à une désinstallation), sauvegarde proposée avant chaque mise à jour, et restauration au transfert de téléphone (sans cloud).",
+  "version": "2.3.0",
+  "url": "https://github.com/jdviallat/lifecoon-updates/releases/latest",
+  "notes": "Import d'ordonnance (PDF/photo) → médicaments + posologie créés automatiquement, import de rapports d'examens PDF, objets connectés Bluetooth, carnet de vaccination, suivi de la douleur, carnet de médecins + fiche de liaison hôpital.",
   "obligatoire": false,
   "minVersion": "1.0.0"
 }
